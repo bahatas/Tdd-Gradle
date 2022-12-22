@@ -1,0 +1,5 @@
+# Project exclude paths
+/basket-service/.gradle/
+/basket-service/build/
+/basket-service/build/classes/java/main/
+/basket-service/build/classes/java/test/
